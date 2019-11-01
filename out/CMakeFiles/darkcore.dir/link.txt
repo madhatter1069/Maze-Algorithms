@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libdarkcore.a  CMakeFiles/darkcore.dir/core/Jsolve.cpp.o CMakeFiles/darkcore.dir/core/Jmaze.cpp.o
+/usr/bin/ranlib lib/libdarkcore.a
